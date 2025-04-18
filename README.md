@@ -32,7 +32,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>My most recent articles</h3>
+<h3>My favorite articles for coding:</h3>
 <ul>
   <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Getting Started with React: A Beginner’s Guide to Setting Up Your First Application</i></a></li>
   <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
