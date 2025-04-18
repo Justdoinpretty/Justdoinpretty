@@ -1,4 +1,4 @@
-## Hi there, i'm Justdoinpretty 👋
+## Hi there, I'm Justdoinpretty 👋
 
 <!--
 **Justdoinpretty/Justdoinpretty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
