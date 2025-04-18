@@ -1,6 +1,6 @@
 ## Hi there, I'm Justdoinpretty 👋
 
-![](https://komarev.com/ghpvc/?username=Justdoinpretty&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Justdoinpretty&color=ff69b4&style=for-the-badge)
 
 <!--
 **Justdoinpretty/Justdoinpretty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
